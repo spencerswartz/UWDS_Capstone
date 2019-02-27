@@ -1,0 +1,49 @@
+Hello Data Scientists,
+
+ 
+
+Dan Siercks in our DS785-Capstone course made a good observation about how the “Final Capstone Paper Format and Style Guidelines” specify that the abstract of the final paper is to be single-spaced, however the Guidelines do not mention spacing for the textual content of the final paper.
+
+ 
+
+Therefore, in an attempt to clarify the spacing requirements for the final capstone paper I’ve put together the following guidelines.
+
+ 
+
+Spacing
+
+The text of the final capstone paper is to be double-spaced.
+
+ 
+
+The paper’s abstract is to be single-spaced.
+
+ 
+
+Acknowledgments and dedications are to be double-spaced.
+
+ 
+
+Begin each chapter on a new page.
+
+ 
+
+Do not begin each section on a new page. Sections should follow one another immediately in order to avoid large blank spaces.
+
+ 
+
+Do not leave a heading floating at the bottom of a page without accompanying text.
+
+ 
+
+Single spaces after a period at the end of a sentence are required.
+
+ 
+
+================================================
+
+Hopefully this helps, if you have questions please let me know.
+
+Thank you,
+
+Ethan
